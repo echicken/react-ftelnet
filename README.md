@@ -10,6 +10,8 @@ import FTelnet from 'react-ftelnet';
 and then, where it suits you:
 
 ```jsx
+// Available props and their defaults are shown here.
+// You don't need to specify all of these.
 <FTelnet
   autoConnect={false}
   crossOrigin={null}
