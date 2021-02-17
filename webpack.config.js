@@ -2,10 +2,10 @@ const path = require('path');
 
 module.exports = {
   mode: 'production',
-  entry: './src/YOUR_COMPONENT.js',
+  entry: './src/FTelnet.js',
   output: {
     path: path.resolve('lib'),
-    filename: 'YOUR_COMPONENT.js',
+    filename: 'FTelnet.js',
     libraryTarget: 'commonjs2',
   },
   module: {
