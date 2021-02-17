@@ -3,19 +3,19 @@ react-ftelnet
 
 [fTelnet](https://github.com/rickparrish/fTelnet) as a React component.
 
-Install it
+Install it:
 
 ```sh
 npm install react-ftelnet
 ```
 
-import it
+import it:
 
 ```js
 import FTelnet from 'react-ftelnet';
 ```
 
-and then, where it suits you:
+use it:
 
 ```jsx
 // Available props and their defaults are shown here.
