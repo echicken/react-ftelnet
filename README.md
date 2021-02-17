@@ -1,3 +1,5 @@
+![npm](https://img.shields.io/npm/v/react-ftelnet?style=flat-square) ![NPM](https://img.shields.io/npm/l/react-ftelnet)
+
 react-ftelnet
 ======
 
