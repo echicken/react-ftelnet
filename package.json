@@ -1,6 +1,6 @@
 {
     "name": "react-ftelnet",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "fTelnet as a React component",
     "main": "./lib/FTelnet.js",
     "license": "MIT",
