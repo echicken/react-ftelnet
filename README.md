@@ -27,7 +27,7 @@ and then, where it suits you:
 |------|------|-------------|
 | **autoConnect** | *boolean* | Connect as soon as fTelnet is finished loading |
 | **crossOrigin** | *string* or *null* | String value for *crossorigin* attribute of the fTelnet script element, or ```null``` for none |
-| **fTelnetOptions** | *object* | Overrides for https://github.com/rickparrish/fTelnet/blob/master/source/ftelnetclient/fTelnetOptions.ts - You will at least want to set *Host* and *Port* to something other than the default. |
+| **fTelnetOptions** | *object* | Overrides for [fTelnetOptions](https://github.com/rickparrish/fTelnet/blob/master/source/ftelnetclient/fTelnetOptions.ts). You will at least want to set *Host* and *Port* to something other than the default. |
 | **noRip** | *boolean* | Disable RIP graphics |
 | **noXfer** | *boolean* | Disable file transfers |
 | **refresh** | *number* | TTL in ms for the URL to the fTelnet script source (```0``` to refresh each time this component mounts) |
