@@ -1,12 +1,16 @@
 {
     "name": "react-ftelnet",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "fTelnet as a React component",
     "main": "./lib/FTelnet.js",
     "license": "MIT",
     "author": {
         "name": "echicken",
         "email": "echicken@bbs.electronicchicken.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/echicken/react-ftelnet.git"
     },
     "scripts": {
         "build": "webpack"
