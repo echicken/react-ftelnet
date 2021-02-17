@@ -3,6 +3,10 @@ react-ftelnet
 
 [fTelnet](https://github.com/rickparrish/fTelnet) as a React component.
 
+```sh
+npm install react-ftelnet
+```
+
 ```js
 import FTelnet from 'react-ftelnet';
 ```
