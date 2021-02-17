@@ -28,8 +28,8 @@ and then, where it suits you:
   noXfer={false}
   refresh={86400000}
   scriptSrc={''}
-  scriptID={'fTelnetScript'}
-  divID={'fTelnetDiv'}
+  scriptID="fTelnetScript"
+  divID="fTelnetDiv"
 />
 ```
 
