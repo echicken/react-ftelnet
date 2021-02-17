@@ -27,7 +27,7 @@ use it:
   noRip={false}
   noXfer={false}
   refresh={86400000}
-  scriptSrc={''}
+  scriptSrc=""
   scriptID="fTelnetScript"
   divID="fTelnetDiv"
 />
